@@ -1,0 +1,15 @@
+langchain_community
+python-dotenv
+langchain
+sentence-transformers
+faiss-gpu
+torch
+numpy
+pandas
+sklearn
+spacy
+evaluate
+bert_score
+rouge_score
+git+https://github.com/google-research/bleurt.git
+wikipedia
