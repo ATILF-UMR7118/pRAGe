@@ -4,7 +4,7 @@
 
 🎉 Paper accepted at [KnowledgeableLMs](https://knowledgeable-lm.github.io/), an [ACL 2024](https://2024.aclweb.org/) Workshop.
 
-# Setup environment
+## Setup Environment
 
 Create a virtual environment (e.g. *ragenv*) and install the *requirements* file.
 
@@ -14,7 +14,7 @@ source ~/ragenv/bin/activate
 pip3 install -r requirements.txt
 ```
 
-# Files description
+## Files Description
 
 🗂️```data``` contains: 
 
@@ -34,11 +34,11 @@ pip3 install -r requirements.txt
 
 💻```scripts``` contains the Python codes for **evaluation** of the experiments and report generation.
 
-# Citations
+## Citations
 
 Please cite our work:
 
-## pRAGe paper
+### pRAGe Paper
 ```bibtex
 @article{buhnila2024retrieve,
   title={Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models},
@@ -47,7 +47,7 @@ Please cite our work:
   year={2024}
 }
 ```
-## RefoMED dataset
+### RefoMED Paraphrase Dataset
 ```bibtex
 @phdthesis{buhnila2023methode,
   title={Une m{\'e}thode automatique de construction de corpus de reformulation},
