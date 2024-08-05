@@ -2,7 +2,7 @@
 
 📄 Code repository for [Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models](https://arxiv.org/abs/2407.16565)
 
-🎉 Paper accepted at [KnowledgeableLMs](https://knowledgeable-lm.github.io/), a [ACL 2024](https://2024.aclweb.org/) Workshop.
+🎉 Paper accepted at [KnowledgeableLMs](https://knowledgeable-lm.github.io/), an [ACL 2024](https://2024.aclweb.org/) Workshop.
 
 # Setup environment
 
