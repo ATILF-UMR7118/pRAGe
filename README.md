@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 
   - **```Refomed-KB.zip```**: a 1.7M tokens knowledge base automatically extracted from Wikipedia articles for 1,253 medical terms from RefoMED (the *test* list). 
 
-  For every term, for example, ```asthma```, the Refomed-KB contains top-3 wiki extracts namely, ```asthma-0.txt, asthma-1.txt, asthma-2.txt```.
+      - for every term, for example, ```asthma```, the Refomed-KB contains top-3 wiki extracts namely, ```asthma-0.txt, asthma-1.txt, asthma-2.txt```.
 
   - **```RefoMED dataset (Buhnila, 2023)```**: an [open-source dataset](https://github.com/ibuhnila/refomed) of 6,297 pairs of unique medical terms and their corresponding sub-sentential paraphrases in French.
 
@@ -35,6 +35,7 @@ pip3 install -r requirements.txt
 💻```scripts``` contains the Python codes for **evaluation** of the experiments and report generation.
 
 # Citations
+
 Please cite our work:
 
 ## pRAGe paper
