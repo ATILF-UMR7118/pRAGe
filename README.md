@@ -28,9 +28,9 @@ pip3 install -r requirements.txt
       - ```refomed_train.csv```: list used for finetuning BioMistral and BARTHEZ
       - ```refomed_val.csv```: list used for validation
 
-💻```notebooks``` contains: Python codes used for **inference generation, finetuning, pRAGe settings and data visualization**.
+💻```notebooks``` contains the Python codes for **inference generation, finetuning, pRAGe settings and data visualization**.
 
-📊```plots``` contains **data visualization** plots
+📊```plots``` contains **data visualization** plots.
 
 💻```scripts``` contains the Python codes for **evaluation** of the experiments and report generation.
 
