@@ -18,19 +18,19 @@ pip3 install -r requirements.txt
 
 🗂️```data``` contains: 
 
-- ```Refomed-KB.zip```: a 1.7M tokens knowledge base automatically extracted from Wikipedia articles for 1,253 medical terms from RefoMED (the *test* list). 
+  - ```Refomed-KB.zip```: a 1.7M tokens knowledge base automatically extracted from Wikipedia articles for 1,253 medical terms from RefoMED (the *test* list). 
 
-**Format**
+  **Format**
 
-For every term, for example, ```asthma```, the Refomed-KB contains top-3 wiki extracts namely, ```asthma-0.txt, asthma-1.txt, asthma-2.txt```.
+  For every term, for example, ```asthma```, the Refomed-KB contains top-3 wiki extracts namely, ```asthma-0.txt, asthma-1.txt, asthma-2.txt```.
 
-- ```RefoMED dataset (Buhnila, 2023)```: an [open-source dataset](https://github.com/ibuhnila/refomed) of 6,297 pairs of unique medical terms and their corresponding sub-sentential paraphrases in French.
+  - ```RefoMED dataset (Buhnila, 2023)```: an [open-source dataset](https://github.com/ibuhnila/refomed) of 6,297 pairs of unique medical terms and their corresponding sub-sentential paraphrases in French.
 
-**Format**
+  **Format**
 
-- ```refomed_test.csv```: list used for test and evaluation
-- ```refomed_train.csv```: list used for finetuning BioMistral and BARTHEZ
-- ```refomed_val.csv```: list used for validation
+  - ```refomed_test.csv```: list used for test and evaluation
+  - ```refomed_train.csv```: list used for finetuning BioMistral and BARTHEZ
+  - ```refomed_val.csv```: list used for validation
 
 💻```notebooks``` contains: Python codes used for **inference generation, finetuning, pRAGe settings and data visualization**.
 
