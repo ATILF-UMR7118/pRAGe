@@ -14,7 +14,10 @@ Language generation via LLMs models has two key problems:
 
 We introduce **pRAGe**, a **p**ipeline for **R**etrieval **A**ugmented **G**eneration and **e**valuation of medical paraphrases generation using Small Language Models (**SLM**). We study the effectiveness of SLMs and the impact of external knowledge base for medical paraphrase generation in French.
 
-<img width="917" alt="method-prage" src="https://github.com/user-attachments/assets/681c723c-d4ca-4b28-9ef5-0536745e4777">
+
+<img width="915" alt="method-prage" src="https://github.com/user-attachments/assets/bb130210-947a-4249-8da7-fbeb5e89a8e1">
+
+
 
 ## Setup Environment
 
