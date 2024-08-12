@@ -4,6 +4,18 @@
 
 🎉 Paper accepted at [KnowledgeableLMs](https://knowledgeable-lm.github.io/), an [ACL 2024](https://2024.aclweb.org/) Workshop.
 
+## pRAGe project
+
+Recent surge in the accessibility of large language models (LLMs) to the general population can lead to untrackable use of such models for medical-related recommendations. 
+
+Language generation via LLMs models has two key problems: 
+- firstly, they are prone to hallucination and therefore, for any medical purpose they require scientific and factual grounding;
+- secondly, LLMs pose tremendous challenge to computational resources due to their gigantic model size.
+
+We introduce **pRAGe**, a **p**ipeline for **R**etrieval **A**ugmented **G**eneration and **e**valuation of medical paraphrases generation using Small Language Models (**SLM**). We study the effectiveness of SLMs and the impact of external knowledge base for medical paraphrase generation in French.
+
+<img width="917" alt="method-prage" src="https://github.com/user-attachments/assets/681c723c-d4ca-4b28-9ef5-0536745e4777">
+
 ## Setup Environment
 
 Create a virtual environment (e.g. *ragenv*) and install the *requirements* file.
