@@ -54,10 +54,11 @@ Please cite our work:
 
 ### pRAGe Paper
 ```bibtex
-@article{buhnila2024retrieve,
+@inproceedings{buhnila2024retrieve,
   title={Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models},
-  author={Buhnila, Ioana and Sinha, Aman and Constant, Mathieu},
-  journal={arXiv preprint arXiv:2407.16565},
+  author={Buhnila, Ioana and Sinha, Aman and Constant, Matthieu},
+  booktitle={Proceedings of the 1st Workshop on Towards Knowledgeable Language Models (KnowLLM 2024)},
+  pages={189--203},
   year={2024}
 }
 ```
